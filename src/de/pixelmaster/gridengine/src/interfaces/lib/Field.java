@@ -1,4 +1,4 @@
-package de.pixelmaster.gridengine.src.lib;
+package de.pixelmaster.gridengine.src.interfaces.lib;
 
 public interface Field {
 

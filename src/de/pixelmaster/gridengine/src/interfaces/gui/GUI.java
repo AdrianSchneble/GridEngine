@@ -1,6 +1,6 @@
-package de.pixelmaster.gridengine.src.gui;
+package de.pixelmaster.gridengine.src.interfaces.gui;
 
-import de.pixelmaster.gridengine.src.eventhandling.EventHandler;
+import de.pixelmaster.gridengine.src.interfaces.eventhandling.EventHandler;
 
 public interface GUI extends EventHandler {
 

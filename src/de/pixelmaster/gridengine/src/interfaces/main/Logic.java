@@ -1,6 +1,6 @@
-package de.pixelmaster.gridengine.src.main;
+package de.pixelmaster.gridengine.src.interfaces.main;
 
-import de.pixelmaster.gridengine.src.eventhandling.EventHandler;
+import de.pixelmaster.gridengine.src.interfaces.eventhandling.EventHandler;
 
 public interface Logic extends EventHandler {
 
