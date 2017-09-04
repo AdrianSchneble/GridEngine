@@ -1,6 +1,6 @@
-package de.pixelmaster.gridengine.src.eventhandling;
+package de.pixelmaster.gridengine.src.interfaces.eventhandling;
 
-import java.awt.Event;
+import java.util.EventObject;
 
 /**
  * 
@@ -9,9 +9,7 @@ import java.awt.Event;
  */
 public interface EventManager {
 
-	public void getInstance();
-
-	public void fire(Event event);
+	public void fire(EventObject event);
 
 	public void register(EventHandler handler);
 
