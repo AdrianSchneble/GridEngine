@@ -1,6 +1,6 @@
 package de.pixelmaster.gridengine.src.bomberman.main;
 
-import de.pixelmaster.gridengine.src.bomberman.BombermanGUI;
+import de.pixelmaster.gridengine.src.bomberman.gui.BombermanGUI;
 
 public class BombermanLauncher {
 

@@ -1,4 +1,4 @@
-package de.pixelmaster.gridengine.src.bomberman;
+package de.pixelmaster.gridengine.src.bomberman.gui;
 
 import java.awt.Toolkit;
 import java.awt.event.KeyEvent;
