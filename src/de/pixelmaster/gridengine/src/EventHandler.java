@@ -4,6 +4,8 @@ import com.sun.glass.events.KeyEvent;
 import com.sun.glass.events.MouseEvent;
 
 public interface EventHandler {
+	public EventManager getEventManager();
+
 	public void onEnd(GameEvent event);
 
 	public void onKeyPressedEvent(KeyEvent event);
