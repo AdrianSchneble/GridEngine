@@ -1,5 +1,5 @@
 package de.pixelmaster.gridengine.src;
 
-public interface GUI {
+public interface GUI extends EventHandler {
 
 }
