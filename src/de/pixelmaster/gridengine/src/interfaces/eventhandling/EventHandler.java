@@ -1,9 +1,10 @@
-package de.pixelmaster.gridengine.src.eventhandling;
+package de.pixelmaster.gridengine.src.interfaces.eventhandling;
 
-import java.awt.Event;
+import java.util.EventObject;
 
 public interface EventHandler {
 
-	public void onEvent(Event event);
+	//TODO rename method?
+	public void receiveEvent(EventObject event);
 
 }
