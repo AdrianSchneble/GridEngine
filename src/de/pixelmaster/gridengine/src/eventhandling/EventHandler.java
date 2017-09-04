@@ -1,4 +1,4 @@
-package de.pixelmaster.gridengine.src;
+package de.pixelmaster.gridengine.src.eventhandling;
 
 import com.sun.glass.events.KeyEvent;
 import com.sun.glass.events.MouseEvent;

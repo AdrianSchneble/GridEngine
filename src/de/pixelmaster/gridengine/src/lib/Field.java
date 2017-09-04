@@ -1,4 +1,4 @@
-package de.pixelmaster.gridengine.src;
+package de.pixelmaster.gridengine.src.lib;
 
 public interface Field {
 	public double getValue(int id);
