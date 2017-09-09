@@ -47,5 +47,4 @@ public class EventManagerTest implements EventHandler
 	{
 		o = Optional.ofNullable(event.getSource());
 	}
-
 }
